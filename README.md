@@ -27,7 +27,7 @@ Cosine Similarity for plagiarism detection.
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourusername/chatbot-code.git
+[git clone https://github.com/yourusername/chatbot-code.git](https://github.com/faizu125)
 Navigate to the project directory:
 bash
 Copy code
